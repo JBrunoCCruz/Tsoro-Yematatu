@@ -1,0 +1,17 @@
+1 - Para executar, vá (por linha de comando) até a pasta que contém o arquivo:
+    (TsoroYematatu.jar), e execute: (java -jar TsoroYematatu.jar).
+
+2 - Caso os elementos da tela não carreguem por completo, minize e restaure a tela.
+
+3 - É necessário escolher uma cor para começar o jogo
+
+4 - O jogador que criou o servidor começar o jogo
+
+5 - Na rodada de descarte, o movimento é feito clicando sobre os pontos vazios
+
+6 - Após a rodada de descarte, o movimento é feito clicando nas peças da sua cor
+
+7 - O empate é decidio por Chat (Os jogadores concordam entre si que a partida foi um empate)
+
+
+Aluno: João Bruno Costa Cruz
