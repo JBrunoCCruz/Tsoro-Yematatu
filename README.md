@@ -1,4 +1,4 @@
-#Projeto de Sockets (João Bruno Costa Cruz)
+# Projeto de Sockets (João Bruno Costa Cruz)
 
 ## 1) Objetivo: Implementar o Jogo Tsoro Yematatu com Sockets
 Objetivo do jogo: Ser o primeiro a criar um 3 em linha com suas peças
@@ -20,3 +20,6 @@ padrão da prancha. Não há capturas neste jogo.
 
 - 4) O jogo pode durar muito tempo, e se ninguém ainda for capaz de criar o 3 em
 linha, os jogadores podem concordar com um empate.
+
+Tabuleiro do jogo
+[!Tabuleiro Tsoro](https://github.com/JBrunoCCruz/Tsoro-Yematatu/blob/aa226bc47b9ea871dec0e4c05241dcb60489a1bd/Tabuleiro%20de%20Tsoro%20Yematatu.PNG)
