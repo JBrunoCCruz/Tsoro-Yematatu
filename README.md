@@ -22,4 +22,4 @@ padrão da prancha. Não há capturas neste jogo.
 linha, os jogadores podem concordar com um empate.
 
 Tabuleiro do jogo
-[!Tabuleiro Tsoro](https://github.com/JBrunoCCruz/Tsoro-Yematatu/blob/aa226bc47b9ea871dec0e4c05241dcb60489a1bd/Tabuleiro%20de%20Tsoro%20Yematatu.PNG)
+![Tabuleiro Tsoro](https://github.com/JBrunoCCruz/Tsoro-Yematatu/blob/aa226bc47b9ea871dec0e4c05241dcb60489a1bd/Tabuleiro%20de%20Tsoro%20Yematatu.PNG)
